@@ -1,0 +1,1 @@
+<img src="{{ asset('logo/g_logo_png.png') }}" alt="" width="100px">
